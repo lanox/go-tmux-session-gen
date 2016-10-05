@@ -1,0 +1,3 @@
+package: tmux-name-generator
+import:
+- package: github.com/mohae/randchars

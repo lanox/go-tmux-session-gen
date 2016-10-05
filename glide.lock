@@ -1,0 +1,10 @@
+hash: e6e4def7a3090739579ad3d83ea7e5f1121d5311d18aea90277a8a60b6982c19
+updated: 2016-08-25T14:21:08.921272933+10:00
+imports:
+- name: github.com/dgryski/go-pcgr
+  version: 474acaed1708425f6e80406347e5f7673e8992cf
+- name: github.com/dgryski/go-xoroshiro
+  version: ea5ca0291510c1f8b16321d610ae73e1006d499f
+- name: github.com/mohae/randchars
+  version: 35a00c43754e713dfc3b4f9ac0e3222d8c9213c2
+testImports: []
