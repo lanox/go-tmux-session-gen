@@ -5,7 +5,7 @@ This is small plugin that will generate random session name every time you open 
 
 ## Installation
 
-Script is written in Python3. So you may need to setup pyenv or get python3 from Homebrew.
+Script is written in Golang.
 
 iTerm2 Specific.
 
